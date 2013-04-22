@@ -7,6 +7,7 @@ GEM
     coderay (1.0.9)
     diff-lcs (1.2.4)
     edi4r (0.9.4.1)
+    edi4r-tdid (0.8.1)
     factory_girl (4.2.0)
       activesupport (>= 3.0.0)
     ffi (1.7.0)
@@ -54,6 +55,7 @@ PLATFORMS
 
 DEPENDENCIES
   edi4r
+  edi4r-tdid
   factory_girl
   guard-rspec
   rake

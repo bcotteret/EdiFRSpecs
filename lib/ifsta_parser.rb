@@ -1,7 +1,7 @@
 class IfstaParser
 # produces Status report
 
-  def initialize(file)
+  def initialize
 
   end
 
