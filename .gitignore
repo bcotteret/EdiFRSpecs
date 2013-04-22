@@ -1,0 +1,6 @@
+# Skip tmp folder
+/tmp
+
+# Skip all temp files *.~ and Vim swp
+*._~
+*.swp
