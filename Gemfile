@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
   gem 'edi4r'
+  gem 'factory_girl'
+  gem 'guard-rspec'
   gem 'rake'
   gem 'rspec'
-  gem 'guard-rspec'
