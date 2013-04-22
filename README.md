@@ -9,6 +9,6 @@ Bundle it to get gems installed
 ## Usage
 Simply run guard from your terminal.
 
-Guard will then run your specs.
+Guard will then run your specs (and watch for change).
 
 Process files from the messages folder.
