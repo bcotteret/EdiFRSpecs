@@ -4,7 +4,7 @@ I am currently working on a project including processing orders from/to EDIFACT 
 I have refactored out specs and code libs from the application.
 
 ## Setup
-Install rvm along with Ruby 1.9.3.
+Install rvm along with Ruby 2.3.x
 Bundle it to get gems installed
 
 ## Usage

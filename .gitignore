@@ -2,7 +2,7 @@
 /tmp
 
 # Skip all temp files *.~ and Vim swp
-*._~
+*~
 *.swp
 
 # Skip EDI files
